@@ -1,0 +1,11 @@
+pyttsx3
+requests
+trafilatura
+python-dotenv
+beautifulsoup4
+pypdf
+tweepy
+huggingface_hub
+gradio
+tqdm
+IPython
