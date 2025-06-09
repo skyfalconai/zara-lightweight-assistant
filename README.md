@@ -140,8 +140,3 @@ See `requirements.txt` for dependencies.
 
 Feel free to add your own agents to the `agents` file. All independent researchers and developers are welcome to fork and contribute.
 
----
-
-````
-
-
